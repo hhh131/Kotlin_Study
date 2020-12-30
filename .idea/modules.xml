@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinBasicc/KotlinBasicc.iml" filepath="$PROJECT_DIR$/KotlinBasicc/KotlinBasicc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KotlinStudy.iml" filepath="$PROJECT_DIR$/.idea/KotlinStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" filepath="$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" filepath="$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" />
     </modules>
   </component>
