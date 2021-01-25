@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/KotlinStudy.iml" filepath="$PROJECT_DIR$/.idea/KotlinStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" filepath="$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" filepath="$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
     </modules>
   </component>
 </project>
