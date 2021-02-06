@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinBasicc/KotlinBasicc.iml" filepath="$PROJECT_DIR$/KotlinBasicc/KotlinBasicc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/KotlinStudy.iml" filepath="$PROJECT_DIR$/.idea/KotlinStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" filepath="$PROJECT_DIR$/Kotlin_Scope/Kotlin_Scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" filepath="$PROJECT_DIR$/Kotlin_lambda/Kotlin_lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphysm/Polymorphysm.iml" filepath="$PROJECT_DIR$/Polymorphysm/Polymorphysm.iml" />
     </modules>
   </component>
 </project>
